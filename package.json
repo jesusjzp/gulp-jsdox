@@ -1,0 +1,26 @@
+{
+  "name": "gulp-jsdox",
+  "version": "0.0.0",
+  "description": "Gulp plugin for the JSDox markdown generator for JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrjoelkemp/gulp-jsdox.git"
+  },
+  "keywords": [
+    "gulp",
+    "jsdox",
+    "jsdoc",
+    "markdown",
+    "docblock"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com> (http://www.mrjoelkemp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrjoelkemp/gulp-jsdox/issues"
+  },
+  "homepage": "https://github.com/mrjoelkemp/gulp-jsdox"
+}
